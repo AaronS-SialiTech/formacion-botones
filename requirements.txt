@@ -1,0 +1,7 @@
+motor
+pymongo
+pydantic
+fastapi
+bson
+datetime
+uvicorn
